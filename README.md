@@ -4,6 +4,7 @@ YouTube Analysis Project - End-to-End Data Engineering utilizing AWS Cloud and P
 Project Title: YouTube Analysis Project - End-to-End Data Engineering utilizing AWS cloud and Python
 
 Project Overview: This project is crafted to effectively manage, optimize, and analyze organized and partially organized data extracted from YouTube videos. The primary objective is to categorize the videos and evaluate trending metrics in order to extract valuable insights.
+
 Project Objectives: 📌 Data Ingestion 📌 ETL System 📌 Data Lake Implementation  📌 Cloud Integration (AWS) 📌 Reporting Dashboards
 
 Pipeline Phases: The project unfolds in three key phases:
