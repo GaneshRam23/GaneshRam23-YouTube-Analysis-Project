@@ -1,4 +1,4 @@
-# YouTube-Analysis-Project
+<img width="786" alt="architecture_youtube" src="https://github.com/GaneshRam23/GaneshRam23-YouTube-Analysis-Project/assets/142648081/f3e5a281-8c27-43b9-8ac9-11838db21721"># YouTube-Analysis-Project
 # Project Goals
 Data Ingestion — Build a mechanism to ingest data from different sources
 ETL System — We are getting data in raw format, transforming this data into the proper format
@@ -8,7 +8,7 @@ Cloud — We can’t process vast amounts of data on our local computer so we ne
 Reporting — Build a dashboard to get answers to the question we asked earlier
 
 # Architecture
-
+![Uploading architecture_youtube.png…]()
 # Objective
 Data Ingestion: Develop a robust mechanism for seamlessly ingesting data from diverse sources.
 ETL System: Transform raw data into the required format for analysis and storage.
@@ -18,6 +18,7 @@ Cloud Integration: Utilize AWS to process and manage vast datasets that exceed l
 Data Sources Employed
 Dataset Used
 This Kaggle dataset contains statistics (CSV files) on daily popular YouTube videos over the course of many months. There are up to 200 trending videos published every day for many locations. The data for each region is in its own file. The video title, channel title, publication time, tags, views, likes and dislikes, description, and comment count are among the items included in the data. A category_id field, which differs by area, is also included in the JSON file linked to the region.
+
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
