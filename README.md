@@ -1,4 +1,4 @@
-<img width="786" alt="architecture_youtube" src="https://github.com/GaneshRam23/GaneshRam23-YouTube-Analysis-Project/assets/142648081/f3e5a281-8c27-43b9-8ac9-11838db21721"># YouTube-Analysis-Project
+# YouTube-Analysis-Project
 # Project Goals
 Data Ingestion — Build a mechanism to ingest data from different sources
 ETL System — We are getting data in raw format, transforming this data into the proper format
@@ -8,7 +8,7 @@ Cloud — We can’t process vast amounts of data on our local computer so we ne
 Reporting — Build a dashboard to get answers to the question we asked earlier
 
 # Architecture
-![Uploading architecture_youtube.png…]()
+<img width="786" alt="architecture_youtube" src="https://github.com/GaneshRam23/GaneshRam23-YouTube-Analysis-Project/assets/142648081/f3e5a281-8c27-43b9-8ac9-11838db21721">
 # Objective
 Data Ingestion: Develop a robust mechanism for seamlessly ingesting data from diverse sources.
 ETL System: Transform raw data into the required format for analysis and storage.
