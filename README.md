@@ -15,10 +15,12 @@ Data extraction from Kaggle, featuring daily statistics of popular YouTube video
 AWS Lambda deployment for extraction function.
 Automated extraction triggered by AWS CloudWatch at regular intervals.
 Raw data stored in AWS S3 Bucket under "de-on-youtube-raw-ind-dev."
+
 📌 Transform:
 
 S3 triggers activating a Lambda function for data transformation.
 Categorized data by region, moved from "de-on-youtube-raw-ind-dev" to "de-on-youtube-cleansed-ind."
+
 📌 Load:
 
 Glue Crawler for schema inference upon new data addition.
