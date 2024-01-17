@@ -1,4 +1,4 @@
-# GaneshRam23-YouTube-Analysis-Project
+# YouTube-Analysis-Project
 # Project Goals
 Data Ingestion — Build a mechanism to ingest data from different sources
 ETL System — We are getting data in raw format, transforming this data into the proper format
